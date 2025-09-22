@@ -1,6 +1,4 @@
-
-
-Superstore Sales Analysis (Excel)
+ Superstore Sales Analysis (Excel)
 
 📌 Project Overview
 This project analyzes the *Superstore Sales dataset* using Microsoft Excel to uncover insights into sales performance, profit trends, and customer behavior.  
