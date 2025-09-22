@@ -15,7 +15,7 @@ Analyzed 10,000 bank customers to identify churn patterns and provide actionable
 
 
  💡 Key Insights-
--     Germany has highest churn (32%)  
+- 👨 Germany has highest churn (32%)  
 - 👵 Customers 40+ and 💰 low/high income are most at risk  
 - ⚖️ Gender has minimal impact  
 
