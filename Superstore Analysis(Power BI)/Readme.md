@@ -1,4 +1,4 @@
-🛒 Superstore Sales Dashboard (Power BI)
+🛒 Superstore Sales Analysis (Power BI)
 
 📌 Project Overview-
 
